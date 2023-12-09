@@ -1,8 +1,8 @@
 {
-  "name": "ahyadessam/smsa",
+  "name": "doba-nabil/smsa",
   "description": "laravel SMSA shipping integration",
   "keywords": ["laravel", "smsa", "shipping", "integration", "api", "packagist"],
-  "homepage": "https://github.com/ahyadessam/smsa",
+  "homepage": "https://github.com/doba-nabil/smsa",
   "license": "MIT",
   "authors": [
     {
@@ -22,8 +22,8 @@
     }
   },
   "require": {
-    "laravel/framework": "~5.4.0|~5.5.0",
-    "php": ">=5.5.9"
+    "laravel/framework": "^8.12",
+    "php": "^7.3|^8.0"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0"
